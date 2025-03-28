@@ -1,0 +1,85 @@
+body {
+  background: radial-gradient(circle at top left, #444, #222);
+  font-family:sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.app {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #2b2b2b, #1a1a1a);
+  box-shadow: 8px 8px 0px #111;
+}
+
+h1 {
+  font-size: 1.8rem;
+  text-shadow: 3px 3px 0px #666;
+}
+
+.calculator {
+  background: #000;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: inset -4px -4px 0px #333, inset 4px 4px 0px #111;
+}
+
+.display {
+  background: #222;
+  color: #0f0;
+  padding: 15px;
+  font-size: 2rem;
+  text-align: right;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  box-shadow: inset -2px -2px 0px #444, inset 2px 2px 0px #000;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+}
+
+button {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 15px;
+  font-size: 1.2rem;
+  font-family: "Courier New", monospace;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: 0.2s ease-in-out;
+  box-shadow: -2px -2px 0px #444, 2px 2px 0px #111;
+}
+
+button:hover {
+  background: #555;
+}
+
+button:active {
+  background: #666;
+  box-shadow: inset -2px -2px 0px #888, inset 2px 2px 0px #222;
+}
+
+.clear {
+  background: darkred;
+  color: white;
+  grid-column: span 3;
+}
+
+.clear:hover {
+  background: red;
+}
+
+.equals {
+  background: darkgreen;
+  color: white;
+}
+
+.equals:hover {
+  background: green;
+}
