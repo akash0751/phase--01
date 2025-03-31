@@ -1,0 +1,150 @@
+.task8-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.task8-container h2 {
+  color: #333;
+  text-align: center;
+}
+
+.task8-container h3 {
+  color: #555;
+  margin-top: 20px;
+}
+
+.task8-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task8-container li {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.task8-container p {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.task8-container p[style="color: red;"] {
+  color: red;
+}
+
+.task9-container {
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #e8f7ff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.task9-container h2 {
+  color: #333;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.task9-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task9-container li {
+  background-color: #ffffff;
+  padding: 12px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.task9-container li:hover {
+  transform: scale(1.05);
+}
+
+.task9-container p {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.task9-container p[style="color: red;"] {
+  color: red;
+}
+.task10-container {
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #f0f8ff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.task10-container h2 {
+  color: #333;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.task10-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task10-container li {
+  background-color: #ffffff;
+  padding: 12px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.task10-container li:hover {
+  transform: scale(1.05);
+}
+
+.task10-container p {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.task10-container p[style="color: red;"] {
+  color: red;
+}
+
+.refresh-btn {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.refresh-btn:hover {
+  background-color: #45a049;
+}
