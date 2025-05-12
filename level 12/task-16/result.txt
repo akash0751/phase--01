@@ -1,0 +1,3 @@
+Arnav: Average = 80.33, Max = 82, Min = 79
+Bhargav: Average = 84.67, Max = 94, Min = 80
+Deepak: Average = 81.33, Max = 91, Min = 73
