@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "67f0f1fe434ff0ff03d6fbad"
+  },
+  "name": "Arnav",
+  "age": 16,
+  "grade": "10th",
+  "subjects": [
+    "Math",
+    "English",
+    "Biology"
+  ],
+  "address": {
+    "street": "xyz city",
+    "city": "Coimbatore",
+    "state": "TN"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0f339434ff0ff03d6fbae"
+  },
+  "name": "Bala Murali",
+  "age": 17,
+  "grade": "11th",
+  "subjects": [
+    "History",
+    "Math",
+    "Physics"
+  ],
+  "address": {
+    "street": "yxz city",
+    "city": "Trichy",
+    "state": "TN"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0f339434ff0ff03d6fbaf"
+  },
+  "name": "Chistoper",
+  "age": 15,
+  "grade": "9th",
+  "subjects": [
+    "English",
+    "Art",
+    "Math"
+  ],
+  "address": {
+    "street": "xss city",
+    "city": "Salem",
+    "state": "TN"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0f339434ff0ff03d6fbb0"
+  },
+  "name": "David",
+  "age": 18,
+  "grade": "12th",
+  "subjects": [
+    "Chemistry",
+    "Math",
+    "Computer Science"
+  ],
+  "address": {
+    "street": "xxw city",
+    "city": "Chennai",
+    "state": "TN"
+  }
+}]

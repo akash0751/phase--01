@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b61"
+  },
+  "name": "Record 1",
+  "type": "temp",
+  "value": 10
+},
+{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b62"
+  },
+  "name": "Record 2",
+  "type": "temp",
+  "value": 15
+},
+{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b63"
+  },
+  "name": "Record 3",
+  "type": "perm",
+  "value": 20
+},
+{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b64"
+  },
+  "name": "Record 4",
+  "type": "temp",
+  "value": 25
+},
+{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b65"
+  },
+  "name": "Record 5",
+  "type": "perm",
+  "value": 30
+},
+{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b66"
+  },
+  "name": "Record 6",
+  "type": "temp",
+  "value": 35
+},
+{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b67"
+  },
+  "name": "Record 7",
+  "type": "perm",
+  "value": 40
+},
+{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b68"
+  },
+  "name": "Record 8",
+  "type": "temp",
+  "value": 45
+},
+{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b69"
+  },
+  "name": "Record 9",
+  "type": "temp",
+  "value": 50
+},
+{
+  "_id": {
+    "$oid": "67f0f7903746d04702c64b6a"
+  },
+  "name": "Record 10",
+  "type": "perm",
+  "value": 55
+}]

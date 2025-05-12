@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb23"
+  },
+  "name": "Laptop",
+  "price": 1200,
+  "category": "Electronics",
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb24"
+  },
+  "name": "Phone",
+  "price": 800,
+  "category": "Electronics",
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb25"
+  },
+  "name": "Tablet",
+  "price": 500,
+  "category": "Electronics",
+  "stock": 40
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb26"
+  },
+  "name": "Monitor",
+  "price": 300,
+  "category": "Electronics",
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb27"
+  },
+  "name": "Keyboard",
+  "price": 50,
+  "category": "Accessories",
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb28"
+  },
+  "name": "Mouse",
+  "price": 30,
+  "category": "Accessories",
+  "stock": 120
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb29"
+  },
+  "name": "Printer",
+  "price": 150,
+  "category": "Office",
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb2a"
+  },
+  "name": "Desk",
+  "price": 250,
+  "category": "Office",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb2b"
+  },
+  "name": "Chair",
+  "price": 180,
+  "category": "Office",
+  "stock": 12
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb2c"
+  },
+  "name": "USB Drive",
+  "price": 20,
+  "category": "Accessories",
+  "stock": 200
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb2d"
+  },
+  "name": "Camera",
+  "price": 900,
+  "category": "Electronics",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb2e"
+  },
+  "name": "Scanner",
+  "price": 130,
+  "category": "Office",
+  "stock": 5
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb2f"
+  },
+  "name": "Projector",
+  "price": 600,
+  "category": "Electronics",
+  "stock": 7
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb30"
+  },
+  "name": "Headphones",
+  "price": 90,
+  "category": "Accessories",
+  "stock": 80
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb31"
+  },
+  "name": "Speakers",
+  "price": 120,
+  "category": "Accessories",
+  "stock": 60
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb32"
+  },
+  "name": "Smartwatch",
+  "price": 250,
+  "category": "Electronics",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb33"
+  },
+  "name": "Router",
+  "price": 110,
+  "category": "Electronics",
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb34"
+  },
+  "name": "Pen",
+  "price": 5,
+  "category": "Stationery",
+  "stock": 500
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb35"
+  },
+  "name": "Notebook",
+  "price": 15,
+  "category": "Stationery",
+  "stock": 300
+},
+{
+  "_id": {
+    "$oid": "67f10709c0a2b5b94f9adb36"
+  },
+  "name": "Backpack",
+  "price": 70,
+  "category": "Accessories",
+  "stock": 45
+}]
