@@ -1,0 +1,17 @@
+const express = require('express');
+const mongoose = require('mongoose');
+const dotenv = require('dotenv');
+const schemaRoute = require('./routes/routes');
+const authorSchema = require('./routes/route2');
+dotenv.config()
+const app = express();
+app.use(express.json())
+app.use('/user',schemaRoute)
+app.use('/author',authorSchema)
+app.listen(process.env.PORT,(req,res)=>{
+    console.log('server is running on port 3000')
+})
+
+mongoose.connect(process.env.URL).then(()=>{
+    console.log('connected to database')
+})
