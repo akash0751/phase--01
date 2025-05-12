@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa64"
+  },
+  "name": "Pen",
+  "price": 10
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa65"
+  },
+  "name": "Pencil",
+  "price": 5
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa66"
+  },
+  "name": "Notebook",
+  "price": 45
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa67"
+  },
+  "name": "Eraser",
+  "price": 3
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa68"
+  },
+  "name": "Marker",
+  "price": 25
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa69"
+  },
+  "name": "Sharpener",
+  "price": 8
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa6a"
+  },
+  "name": "Sketchbook",
+  "price": 60
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa6b"
+  },
+  "name": "Glue",
+  "price": 15
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa6c"
+  },
+  "name": "Tape",
+  "price": 20
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa6d"
+  },
+  "name": "Compass",
+  "price": 35
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa6e"
+  },
+  "name": "Ruler",
+  "price": 12
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa6f"
+  },
+  "name": "Scissors",
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa70"
+  },
+  "name": "Highlighter",
+  "price": 28
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa71"
+  },
+  "name": "Paper Pack",
+  "price": 75
+},
+{
+  "_id": {
+    "$oid": "67f37c2190ee8b58e8d7aa72"
+  },
+  "name": "Paint Set",
+  "price": 90
+}]

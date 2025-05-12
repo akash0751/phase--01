@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "67f37b23fae9969bf92ef46f"
+  },
+  "name": "Arnav",
+  "age": 16,
+  "grade": 10,
+  "subjects": [
+    {
+      "name": "Math",
+      "score": 85
+    },
+    {
+      "name": "Science",
+      "score": 90
+    }
+  ],
+  "address": {
+    "street": "1st St",
+    "city": "Chennai",
+    "state": "TN"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f37b23fae9969bf92ef470"
+  },
+  "name": "Bala Murali",
+  "age": 17,
+  "grade": 11,
+  "subjects": [
+    {
+      "name": "Math",
+      "score": 78
+    },
+    {
+      "name": "English",
+      "score": 88
+    },
+    {
+      "name": "History",
+      "score": 92
+    }
+  ],
+  "address": {
+    "street": "2nd Ave",
+    "city": "Bangalore",
+    "state": "KA"
+  }
+}]

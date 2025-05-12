@@ -1,0 +1,88 @@
+[{
+  "_id": 1,
+  "title": "Mastering MongoDB",
+  "published_date": {
+    "$date": "2020-01-10T00:00:00.000Z"
+  },
+  "ISBN": "1111",
+  "page_count": 320,
+  "genres": [
+    "Tech",
+    "Database"
+  ],
+  "publisher": {
+    "name": "TechPress",
+    "city": "NY"
+  },
+  "author_id": 1
+},
+{
+  "_id": 2,
+  "title": "Learning JavaScript",
+  "published_date": {
+    "$date": "2021-02-15T00:00:00.000Z"
+  },
+  "ISBN": "2222",
+  "page_count": 280,
+  "genres": [
+    "Tech",
+    "Programming"
+  ],
+  "publisher": {
+    "name": "CodeWorld",
+    "city": "SF"
+  },
+  "author_id": 2
+},
+{
+  "_id": 3,
+  "title": "Python for Data Science",
+  "published_date": {
+    "$date": "2019-05-25T00:00:00.000Z"
+  },
+  "ISBN": "3333",
+  "page_count": 350,
+  "genres": [
+    "Data",
+    "AI"
+  ],
+  "publisher": {
+    "name": "DataPress",
+    "city": "LA"
+  },
+  "author_id": 3
+},
+{
+  "_id": 4,
+  "title": "The Tech Leader",
+  "published_date": {
+    "$date": "2018-07-30T00:00:00.000Z"
+  },
+  "ISBN": "4444",
+  "page_count": 400,
+  "genres": [
+    "Leadership"
+  ],
+  "publisher": {
+    "name": "BizBooks",
+    "city": "NY"
+  },
+  "author_id": 1
+},
+{
+  "_id": 5,
+  "title": "Cloud Computing 101",
+  "published_date": {
+    "$date": "2022-03-15T00:00:00.000Z"
+  },
+  "ISBN": "5555",
+  "page_count": 290,
+  "genres": [
+    "Cloud"
+  ],
+  "publisher": {
+    "name": "CloudPress",
+    "city": "TX"
+  },
+  "author_id": 4
+}]

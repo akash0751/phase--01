@@ -1,0 +1,59 @@
+[{
+  "_id": 1,
+  "name": "Arnav",
+  "birth_date": {
+    "$date": "1980-06-15T00:00:00.000Z"
+  },
+  "nationality": "Indian",
+  "biography": "DB expert",
+  "books": [
+    1,
+    4
+  ]
+},
+{
+  "_id": 2,
+  "name": "Bala Murali",
+  "birth_date": {
+    "$date": "1975-09-22T00:00:00.000Z"
+  },
+  "nationality": "American",
+  "biography": "JS enthusiast",
+  "books": [
+    2
+  ]
+},
+{
+  "_id": 3,
+  "name": "Dinakar",
+  "birth_date": {
+    "$date": "1985-11-30T00:00:00.000Z"
+  },
+  "nationality": "British",
+  "biography": "Data guy",
+  "books": [
+    3
+  ]
+},
+{
+  "_id": 4,
+  "name": "Divakar",
+  "birth_date": {
+    "$date": "1990-01-20T00:00:00.000Z"
+  },
+  "nationality": "Indian",
+  "biography": "Cloud pro",
+  "books": [
+    5
+  ]
+},
+{
+  "_id": 5,
+  "name": "Aarav",
+  "birth_date": {
+    "$date": "1988-04-12T00:00:00.000Z"
+  },
+  "nationality": "Canadian",
+  "biography": "Tech writer",
+  "books": []
+}]

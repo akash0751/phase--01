@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "67f371effae9969bf92ef46b"
+  },
+  "name": "Arnav",
+  "age": 15,
+  "grade": 10,
+  "subjects": [
+    "Math",
+    "Science"
+  ],
+  "address": {
+    "street": "123 Maple St",
+    "city": "New York",
+    "state": "NY"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f371effae9969bf92ef46c"
+  },
+  "name": "Bala Murali",
+  "age": 17,
+  "grade": 11,
+  "subjects": [
+    "English",
+    "History"
+  ],
+  "address": {
+    "street": "456 Oak St",
+    "city": "Boston",
+    "state": "MA"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f371effae9969bf92ef46d"
+  },
+  "name": "Dinakar",
+  "age": 16,
+  "grade": 10,
+  "subjects": [
+    "Math",
+    "Geography"
+  ],
+  "address": {
+    "street": "789 Pine St",
+    "city": "Seattle",
+    "state": "WA"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f371effae9969bf92ef46e"
+  },
+  "name": "Divakar",
+  "age": 18,
+  "grade": 12,
+  "subjects": [
+    "Physics",
+    "Chemistry"
+  ],
+  "address": {
+    "street": "321 Birch St",
+    "city": "Chicago",
+    "state": "IL"
+  }
+}]

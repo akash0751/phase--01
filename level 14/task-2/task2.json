@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa5a"
+  },
+  "name": "Laptop",
+  "price": 1200,
+  "category": "Electronics",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa5b"
+  },
+  "name": "Smartphone",
+  "price": 800,
+  "category": "Electronics",
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa5c"
+  },
+  "name": "Headphones",
+  "price": 150,
+  "category": "Electronics",
+  "stock": 40
+},
+{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa5d"
+  },
+  "name": "Keyboard",
+  "price": 50,
+  "category": "Electronics",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa5e"
+  },
+  "name": "T-Shirt",
+  "price": 20,
+  "category": "Clothing",
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa5f"
+  },
+  "name": "Jeans",
+  "price": 40,
+  "category": "Clothing",
+  "stock": 60
+},
+{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa60"
+  },
+  "name": "Jacket",
+  "price": 100,
+  "category": "Clothing",
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa61"
+  },
+  "name": "Book A",
+  "price": 15,
+  "category": "Books",
+  "stock": 80
+},
+{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa62"
+  },
+  "name": "Book B",
+  "price": 25,
+  "category": "Books",
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "67f3738e90ee8b58e8d7aa63"
+  },
+  "name": "Notebook",
+  "price": 5,
+  "category": "Stationery",
+  "stock": 200
+}]

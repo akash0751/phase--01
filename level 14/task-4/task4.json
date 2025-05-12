@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959c6"
+  },
+  "date": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 2,
+  "amount": 2400
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959c7"
+  },
+  "date": {
+    "$date": "2024-12-05T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 5,
+  "amount": 4000
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959c8"
+  },
+  "date": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  },
+  "product": "Headphones",
+  "quantity": 10,
+  "amount": 1500
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959c9"
+  },
+  "date": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 1,
+  "amount": 1200
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959ca"
+  },
+  "date": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "product": "Mouse",
+  "quantity": 6,
+  "amount": 300
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959cb"
+  },
+  "date": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "product": "Keyboard",
+  "quantity": 4,
+  "amount": 200
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959cc"
+  },
+  "date": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 3,
+  "amount": 2400
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959cd"
+  },
+  "date": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "product": "Monitor",
+  "quantity": 2,
+  "amount": 600
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959ce"
+  },
+  "date": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 3,
+  "amount": 3600
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959cf"
+  },
+  "date": {
+    "$date": "2025-03-12T00:00:00.000Z"
+  },
+  "product": "Headphones",
+  "quantity": 6,
+  "amount": 900
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d0"
+  },
+  "date": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "product": "Mouse",
+  "quantity": 5,
+  "amount": 250
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d1"
+  },
+  "date": {
+    "$date": "2025-03-25T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 4,
+  "amount": 3200
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d2"
+  },
+  "date": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "product": "Keyboard",
+  "quantity": 2,
+  "amount": 100
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d3"
+  },
+  "date": {
+    "$date": "2025-04-06T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 2,
+  "amount": 1600
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d4"
+  },
+  "date": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "product": "Monitor",
+  "quantity": 1,
+  "amount": 300
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d5"
+  },
+  "date": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 1,
+  "amount": 1200
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d6"
+  },
+  "date": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "product": "Mouse",
+  "quantity": 7,
+  "amount": 350
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d7"
+  },
+  "date": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 3,
+  "amount": 2400
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d8"
+  },
+  "date": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "product": "Headphones",
+  "quantity": 4,
+  "amount": 600
+},
+{
+  "_id": {
+    "$oid": "67f376188ea32bcc00d959d9"
+  },
+  "date": {
+    "$date": "2025-04-30T00:00:00.000Z"
+  },
+  "product": "Keyboard",
+  "quantity": 5,
+  "amount": 250
+}]
